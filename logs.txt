@@ -1,0 +1,95 @@
+2025-11-23 19:47:30 - Added pipe with ID: 1
+2025-11-23 19:47:45 - Added pipe with ID: 3
+2025-11-23 20:07:13 - Added pipe with ID: 1
+2025-11-23 20:07:36 - Added station with ID: 1
+2025-11-23 20:08:06 - Edited pipe with ID: 1
+2025-11-23 20:09:14 - Edited station with ID: 1
+2025-11-23 20:09:20 - Deleted pipe with ID: 1
+2025-11-23 20:09:59 - Search stations by name: 'stat1' - found 1 results
+2025-11-23 20:10:27 - Search pipes by name: '1' - found 0 results
+2025-11-23 20:18:35 - Added pipe with ID: 1
+2025-11-23 20:18:56 - Added pipe with ID: 3
+2025-11-23 20:19:15 - Added pipe with ID: 5
+2025-11-23 20:22:59 - Added pipe with ID: 1
+2025-11-23 20:23:08 - Added pipe with ID: 3
+2025-11-23 20:27:35 - Added pipe with ID: 1
+2025-11-23 20:27:45 - Added pipe with ID: 3
+2025-11-23 20:35:51 - Added pipe with ID: 1
+2025-11-23 20:36:01 - Added pipe with ID: 2
+2025-11-23 20:36:22 - Added station with ID: 1
+2025-11-23 20:36:36 - Added station with ID: 3
+2025-11-23 20:40:00 - Added pipe with ID: 1
+2025-11-23 20:40:12 - Added pipe with ID: 2
+2025-11-23 20:40:20 - Added pipe with ID: 3
+2025-11-23 20:40:42 - Added pipe with ID: 4
+2025-11-23 20:40:57 - Added station with ID: 1
+2025-11-23 20:41:07 - Added station with ID: 2
+2025-11-23 20:41:22 - Edited pipe with ID: 1
+2025-11-23 20:41:36 - Edited station with ID: 2
+2025-11-23 20:41:44 - Deleted pipe with ID: 3
+2025-11-23 20:41:59 - Deleted station with ID: 2
+2025-11-23 20:42:22 - Saved data to file: doni
+2025-11-23 20:42:27 - Loaded data from file: doni
+2025-11-28 15:25:12 - Added pipe with ID: 1
+2025-11-28 15:25:44 - Added station with ID: 1
+2025-11-28 15:25:59 - Added pipe with ID: 2
+2025-11-28 15:26:07 - Added station with ID: 2
+2025-11-28 15:26:24 - Added pipe with ID: 3
+2025-11-28 15:26:38 - Deleted pipe with ID: 3
+2025-11-28 15:26:55 - Added pipe with ID: 4
+2025-11-28 15:27:10 - Search pipes by name: '1' - found 1 results
+2025-11-28 15:27:38 - Search pipes by name: 'tr' - found 2 results
+2025-11-28 15:27:53 - Batch edited 2 pipes
+2025-11-28 15:28:07 - Saved data to file: data
+2025-11-28 15:29:29 - Loaded data from file: data
+2025-12-05 14:22:15 - Added pipe with ID: 1
+2025-12-05 14:22:31 - Added pipe with ID: 2
+2025-12-05 14:22:56 - Added pipe with ID: 3
+2025-12-05 14:23:09 - Added station with ID: 1
+2025-12-05 14:23:30 - Added station with ID: 2
+2025-12-05 14:25:06 - Added station with ID: 3
+2025-12-05 14:48:26 - Added pipe with ID: 1
+2025-12-05 14:48:40 - Added pipe with ID: 2
+2025-12-05 14:48:55 - Added pipe with ID: 3
+2025-12-05 14:49:10 - Added pipe with ID: 4
+2025-12-05 14:49:22 - Added pipe with ID: 5
+2025-12-05 14:49:33 - Added station with ID: 1
+2025-12-05 14:49:56 - Added station with ID: 2
+2025-12-05 14:50:12 - Added station with ID: 3
+2025-12-05 14:50:45 - Marked pipe ID 1 as connected
+2025-12-05 14:51:20 - Marked pipe ID 4 as connected
+2025-12-05 14:56:13 - Added pipe with ID: 1
+2025-12-05 14:56:35 - Added pipe with ID: 2
+2025-12-05 14:56:45 - Added pipe with ID: 3
+2025-12-05 14:56:55 - Added pipe with ID: 4
+2025-12-05 14:57:08 - Added pipe with ID: 5
+2025-12-05 14:57:22 - Added station with ID: 1
+2025-12-05 14:57:35 - Added station with ID: 2
+2025-12-05 14:57:43 - Added station with ID: 3
+2025-12-05 14:57:57 - Added station with ID: 4
+2025-12-05 14:58:09 - Added station with ID: 5
+2025-12-05 14:58:27 - Marked pipe ID 5 as connected
+2025-12-05 14:58:40 - Marked pipe ID 4 as connected
+2025-12-05 14:58:56 - Marked pipe ID 3 as connected
+2025-12-05 14:59:10 - Marked pipe ID 2 as connected
+2025-12-05 14:59:24 - Marked pipe ID 1 as connected
+2025-12-05 15:00:54 - Marked pipe ID 2 as disconnected
+2025-12-05 15:01:09 - Marked pipe ID 1 as disconnected
+2025-12-05 15:04:58 - Marked pipe ID 2 as connected
+2025-12-10 04:00:07 - Added pipe with ID: 1
+2025-12-10 04:00:20 - Added pipe with ID: 2
+2025-12-10 04:00:41 - Added pipe with ID: 3
+2025-12-10 04:01:00 - Added pipe with ID: 4
+2025-12-10 04:01:11 - Added pipe with ID: 5
+2025-12-10 04:01:24 - Added pipe with ID: 6
+2025-12-10 04:01:42 - Added station with ID: 1
+2025-12-10 04:01:53 - Added station with ID: 2
+2025-12-10 04:02:04 - Added station with ID: 3
+2025-12-10 04:02:13 - Added station with ID: 4
+2025-12-10 04:02:36 - Added station with ID: 5
+2025-12-10 04:03:06 - Marked pipe ID 2 as connected
+2025-12-10 04:03:27 - Marked pipe ID 1 as connected
+2025-12-10 04:03:43 - Marked pipe ID 4 as connected
+2025-12-10 04:03:55 - Marked pipe ID 3 as connected
+2025-12-10 04:04:06 - Marked pipe ID 5 as connected
+2025-12-10 04:04:29 - Marked pipe ID 6 as connected
